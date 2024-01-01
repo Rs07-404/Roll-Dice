@@ -7,7 +7,7 @@ body{
 
 .title{
     display: flex;
-    font-size: xx-large;
+    font-size: large;
     flex-direction: column;
     align-items: center;
     
@@ -31,12 +31,12 @@ body{
 }
 
 .dice_1{
-    margin: 5rem;
+    margin: 2rem;
     object-fit: cover;
 }
 
 .dice_2{
-    margin: 5rem;
+    margin: 2rem;
     object-fit: cover;
     
 }
@@ -47,9 +47,9 @@ body{
 }
 
 .btn{
-    padding: 2rem;
-    margin: 2rem;
+    padding: 1rem;
+    margin: 1rem;
     border-radius: 13px;
     font-weight: bold;
-    font-size: larger;
+    font-size: small;
 }
